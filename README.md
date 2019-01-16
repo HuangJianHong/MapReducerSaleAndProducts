@@ -4,4 +4,4 @@
 源数据： sales 和 products Oracle数据库自带的表数据简化;
 
 技术：
-分别用MapReducer 和 SparkSQL分析处理数据;
+分别用MapReducer 和 SparkSQL分析处理数据; [基本本地模式测试开发]
